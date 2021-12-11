@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthdayGeorgi</string>
+    <string name="happy_birthday_text">Happy Birthday Georgi!</string>
+    <string name="signature_text"><![CDATA[From myself (haha). :>]]></string>
+</resources>
